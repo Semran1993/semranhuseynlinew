@@ -1,0 +1,31 @@
+@media only screen and (max-width: 700px){
+
+header .container-fluid .box-text {
+    width: 100%;
+    position: absolute;
+    left: 16px;
+    top: 55%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    color: #fff;
+}
+header .container-fluid .button a {
+  
+    margin-left: 30px;
+}
+nav{
+    display: none!important;
+}
+nav.affix .desing-img {
+    top:0 !important;
+    opacity: 0;
+    
+}
+.sticky {
+    display:none;
+}
+.nav-mobille{
+    display: block;
+}
+}
