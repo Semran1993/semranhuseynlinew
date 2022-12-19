@@ -24,6 +24,7 @@ nav.affix .desing-img {
 }
 .sticky {
     display:none;
+    top: 0;
 }
 .nav-mobille{
     display: block;
